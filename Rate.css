@@ -1,0 +1,34 @@
+table {
+    border-width: 40px;
+    border-style: solid;
+    border-color: #fff9ea;
+    background-color: #f7ecce ;
+    border-spacing: 40px;
+    margin: auto;
+    margin-bottom: 40px;
+    
+
+}
+
+th, td {
+    font-family: 'Poppins';
+    font-size: 15px;
+    color:  #1d1d1d;;
+    border-width: 2px;
+    border-style: solid;
+    border-color: antiquewhite;
+    text-align: justify;
+    padding: 10px;
+
+
+}
+
+.section-title {
+    text-align: center;
+}
+
+.section-subtitle {
+    text-align: center;
+}
+
+
